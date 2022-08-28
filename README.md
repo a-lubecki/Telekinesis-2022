@@ -50,6 +50,7 @@ Due to the differences between a simple mesh like a chair and a complex object l
   - input system (keyboard/mouse and gamepad)
   - UI (with dynamic switching depending on the controller)
   - navigation mesh (for ennemies)
+  - layered blend per bone (for the arm of the character)
   - audio management
   - optimisations / balancing
   
