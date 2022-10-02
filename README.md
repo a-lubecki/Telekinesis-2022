@@ -54,7 +54,3 @@ Due to the differences between a simple mesh like a chair and a complex object l
   - audio management
   - optimisations / balancing
   
-
-### How I made the prototype
-
-https://sites.google.com/view/alubecki-lead-developer/my-portfolio/telekinesis
